@@ -48,9 +48,3 @@ router.post('/', (req, res) => {
 
 
 module.exports = router;
-// to test on postman 
-// http://localhost:3000/fbDownloader
-// and in raw (Json) 
-// {
-//    "url": "https://fb.watch/pYu1AD9Ppb/"
-// }
